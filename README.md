@@ -37,8 +37,8 @@ Thanks for reading, enjoy!
 __Focus for today:__ Heaps/Priority Queues
 
 #### LeetCode
-* :white_circle: [Find Closest Value in BST](Interview-Prep/Easy/find_closest_value_bst.py)
-* :large_blue_circle: [5-longest-palindromic-substring.cpp](LeetCode/5-longest-palindromic-substring.cpp)
+* :white_circle: [Find Closest Value in BST](Easy/find_closest_value_bst.py)
+* :large_blue_circle: [5-longest-palindromic-substring.cpp](Medium/valid_starting_city.py)
 
 #### AlgoExpert
 * :red_circle: [bubble-sort.cpp](AlgoExpert/bubble-sort.cpp)
@@ -49,8 +49,8 @@ __Focus for today:__ Heaps/Priority Queues
 ## Day 1 (2/22/2021):
 **AlgoExpert**.
 __Categories__: BSTs, Greedy Algorithms 
-1. :white_circle: [Find Closest Value in BST](Interview-Prep/Easy/find_closest_value_bst.py)
-2. :large_blue_circle:[Valid Starting City](Interview-Prep/Medium/valid_starting_city.py)
+1. :white_circle: [Find Closest Value in BST](Easy/find_closest_value_bst.py)
+2. :large_blue_circle:[Valid Starting City](Medium/valid_starting_city.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

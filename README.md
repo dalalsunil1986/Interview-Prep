@@ -51,7 +51,7 @@ __Focus for today:__ Heaps/Priority Queues
 __Categories__: BSTs, Greedy Algorithms 
 1. :white_circle: [Find Closest Value in BST](Easy/find_closest_value_bst.py)
 2. :large_blue_circle: [Valid Starting City](Medium/valid_starting_city.py)
-3. :large_blue_circle: [Valid Starting City](Medium/find_kth_largest.py)
+3. :large_blue_circle: [Find Kth Largest](Medium/find_kth_largest.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

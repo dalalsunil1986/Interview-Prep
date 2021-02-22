@@ -2,7 +2,9 @@
 
 This repository reflects my practice on Interview style problems from websites such as AlgoExpert, Leetcode, HackerRank, etc. 
 
-I plan to do one problem daily, and upload my code here. The problems are grouped by difficulty (Easy, Medium, Hard). The categories of problems are:
+I plan to do one problem daily, and upload my code here. The problems are grouped by difficulty (Easy, Medium, Hard). 
+
+**The categories of problems are:**
 
 - Arrays
 - Strings
@@ -20,9 +22,9 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 Thanks for reading, enjoy!
 
-Day 1 (2/22/2021):
+**Day 1 (2/22/2021):**
 - <a href="https://github.com/joshua-chopra/Interview-Prep/blob/master/Easy/find_closest_value_bst.py">Find Closest Value in BST</a>
 - <a href="https://github.com/joshua-chopra/Interview-Prep/blob/master/Medium/valid_starting_city.py">Valid Starting City</a>
 
-Day 2:
+**Day 2 (2/23/2021):**
 

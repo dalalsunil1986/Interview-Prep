@@ -22,12 +22,12 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 **The Difficulty Levels:**
  
  :white_circle: Easy: 1  
- :large_blue_circle: Medium: 1  
+ :large_blue_circle: Medium: 2  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
  :star: Good to review
  
-  __Total:__ 2
+  __Total:__ 3
 
 Thanks for reading, enjoy!
 
@@ -51,6 +51,7 @@ __Focus for today:__ Heaps/Priority Queues
 __Categories__: BSTs, Greedy Algorithms 
 1. :white_circle: [Find Closest Value in BST](Easy/find_closest_value_bst.py)
 2. :large_blue_circle: [Valid Starting City](Medium/valid_starting_city.py)
+3. large_blue_circle: [Valid Starting City](Medium/find_kth_largest.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

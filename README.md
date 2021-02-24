@@ -22,12 +22,12 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 **The Difficulty Levels:**
  
  :white_circle: Easy: 1  
- :large_blue_circle: Medium: 2  
+ :large_blue_circle: Medium: 4  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
  :star: Good to review
  
-  __Total:__ 3
+  __Total:__ 5
 
 Thanks for reading, enjoy!
 

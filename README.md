@@ -20,14 +20,14 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 - Recursion
 
 **The Difficulty Levels:**
- 
- :white_circle: Easy: 1  
- :large_blue_circle: Medium: 4  
- :red_circle: Hard: 0  
- :black_circle: Very Hard: 0  
- :star: Good to review
- 
-  __Total:__ 5
+
+:white_circle: Easy: 1  
+:large_blue_circle: Medium: 5  
+:red_circle: Hard: 0  
+:black_circle: Very Hard: 0  
+:star: Good to review
+
+__Total:__ 6
 
 Thanks for reading, enjoy!
 
@@ -72,13 +72,15 @@ __Categories__: Arrays
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
 ## Day 3 (2/24/2021):
 
 **AlgoExpert**.
 __Categories__: Dynamic Programming
 
-1. :large_blue_circle: [First Duplicate Value](Medium/first_duplicate_value.py)
-2. :large_blue_circle: [Move Element to End](Medium/move_element_to_end.py)
+1. :large_blue_circle: [Number of Ways to Make Change](Medium/num_ways_change.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
+
 

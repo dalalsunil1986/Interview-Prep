@@ -22,12 +22,12 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 **The Difficulty Levels:**
  
  :white_circle: Easy: 1  
- :large_blue_circle: Medium: 2  
+ :large_blue_circle: Medium: 4  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
  :star: Good to review
  
-  __Total:__ 3
+  __Total:__ 5
 
 Thanks for reading, enjoy!
 
@@ -50,6 +50,7 @@ __Focus for today:__ Heaps/Priority Queues
 ## Day 1 (2/22/2021):
 
 **AlgoExpert**.
+
 __Categories__: BSTs, Greedy Algorithms
 
 1. :white_circle: [Find Closest Value in BST](Easy/find_closest_value_bst.py)
@@ -63,6 +64,7 @@ __Categories__: BSTs, Greedy Algorithms
 ## Day 2 (2/23/2021):
 
 **AlgoExpert**.
+
 __Categories__: Arrays
 
 1. :large_blue_circle: [First Duplicate Value](Medium/first_duplicate_value.py)

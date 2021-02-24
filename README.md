@@ -50,6 +50,7 @@ __Focus for today:__ Heaps/Priority Queues
 ## Day 1 (2/22/2021):
 
 **AlgoExpert**.
+
 __Categories__: BSTs, Greedy Algorithms
 
 1. :white_circle: [Find Closest Value in BST](Easy/find_closest_value_bst.py)
@@ -63,6 +64,7 @@ __Categories__: BSTs, Greedy Algorithms
 ## Day 2 (2/23/2021):
 
 **AlgoExpert**.
+
 __Categories__: Arrays
 
 1. :large_blue_circle: [First Duplicate Value](Medium/first_duplicate_value.py)

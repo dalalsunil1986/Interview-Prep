@@ -70,4 +70,13 @@ __Categories__: Arrays
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
+## Day 3 (2/24/2021):
+
+**AlgoExpert**.
+__Categories__: Dynamic Programming
+
+1. :large_blue_circle: [First Duplicate Value](Medium/first_duplicate_value.py)
+2. :large_blue_circle: [Move Element to End](Medium/move_element_to_end.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 

@@ -77,6 +77,7 @@ __Categories__: Arrays
 ## Day 3 (2/24/2021):
 
 **AlgoExpert**.
+
 __Categories__: Dynamic Programming
 
 1. :large_blue_circle: [Number of Ways to Make Change](Medium/num_ways_change.py)

@@ -21,13 +21,13 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 1  
+:white_circle: Easy: 2  
 :large_blue_circle: Medium: 5  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 :star: Good to review
 
-__Total:__ 6
+__Total:__ 7
 
 Thanks for reading, enjoy!
 
@@ -67,8 +67,8 @@ __Categories__: BSTs, Greedy Algorithms
 
 __Categories__: Arrays
 
-1. :large_blue_circle: [First Duplicate Value](Medium/first_duplicate_value.py)
-2. :large_blue_circle: [Move Element to End](Medium/move_element_to_end.py)
+4. :large_blue_circle: [First Duplicate Value](Medium/first_duplicate_value.py)
+5. :large_blue_circle: [Move Element to End](Medium/move_element_to_end.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
@@ -80,8 +80,21 @@ __Categories__: Arrays
 
 __Categories__: Dynamic Programming
 
-1. :large_blue_circle: [Number of Ways to Make Change](Medium/num_ways_change.py)
+6. :large_blue_circle: [Number of Ways to Make Change](Medium/num_ways_change.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 4 (2/25/2021):
+
+**AlgoExpert**.
+
+__Categories__: Arrays
+
+7. :white_circle: [Non Constructible Change](Easy/nonconstructible_change.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
 
 

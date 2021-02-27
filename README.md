@@ -22,12 +22,12 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 **The Difficulty Levels:**
 
 :white_circle: Easy: 2  
-:large_blue_circle: Medium: 5  
+:large_blue_circle: Medium: 6  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 :star: Good to review
 
-__Total:__ 7
+__Total:__ 8
 
 Thanks for reading, enjoy!
 
@@ -96,5 +96,16 @@ __Categories__: Arrays
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 5 (2/26/2021):
+
+**AlgoExpert**.
+
+__Categories__: Linked Lists
+
+8. :large_blue_circle: [Remove Kth Node From End](Medium/remove_kth_node_from_end.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 
 

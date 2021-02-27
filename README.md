@@ -22,12 +22,12 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 **The Difficulty Levels:**
 
 :white_circle: Easy: 2  
-:large_blue_circle: Medium: 6  
+:large_blue_circle: Medium: 7  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 :star: Good to review
 
-__Total:__ 8
+__Total:__ 9
 
 Thanks for reading, enjoy!
 
@@ -107,5 +107,21 @@ __Categories__: Linked Lists
 8. :large_blue_circle: [Remove Kth Node From End](Medium/remove_kth_node_from_end.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 6 (2/27/2021):
+
+**AlgoExpert**.
+
+__Categories__: Binary Search Trees
+
+9. :large_blue_circle: [Validate BST](Medium/validatebst.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+
+
+
 
 

@@ -22,12 +22,12 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 **The Difficulty Levels:**
 
 :white_circle: Easy: 2  
-:large_blue_circle: Medium: 7  
+:large_blue_circle: Medium: 8  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 :star: Good to review
 
-__Total:__ 9
+__Total:__ 10
 
 Thanks for reading, enjoy!
 
@@ -117,6 +117,18 @@ __Categories__: Linked Lists
 __Categories__: Binary Search Trees
 
 9. :large_blue_circle: [Validate BST](Medium/validatebst.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 7 (2/28/2021):
+
+**AlgoExpert**.
+
+__Categories__: Famous Algorithms (Dynamic Programming)
+
+10. :large_blue_circle: [Kadane's Algorithm](Medium/kadanes_algorithm.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

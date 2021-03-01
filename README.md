@@ -21,13 +21,13 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 2  
+:white_circle: Easy: 3  
 :large_blue_circle: Medium: 8  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 :star: Good to review
 
-__Total:__ 10
+__Total:__ 11
 
 Thanks for reading, enjoy!
 
@@ -129,6 +129,16 @@ __Categories__: Binary Search Trees
 __Categories__: Famous Algorithms (Dynamic Programming)
 
 10. :large_blue_circle: [Kadane's Algorithm](Medium/kadanes_algorithm.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 8 (3/1/2021):
+
+**AlgoExpert**.
+
+__Categories__: Strings
+
+11. :white_circle: [Caesar Cipher Encryptor](Easy/caesar_cipher_encryptor.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

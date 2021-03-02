@@ -22,12 +22,12 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 **The Difficulty Levels:**
 
 :white_circle: Easy: 3  
-:large_blue_circle: Medium: 8  
+:large_blue_circle: Medium: 9  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 :star: Good to review
 
-__Total:__ 11
+__Total:__ 12
 
 Thanks for reading, enjoy!
 
@@ -142,6 +142,17 @@ __Categories__: Strings
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 9 (3/2/2021):
+
+**AlgoExpert**.
+
+__Categories__: Dynamic Programming
+
+12. :large_blue_circle: [Minimum Number of Coins for Change](Medium/min_num_coins.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 
 
 

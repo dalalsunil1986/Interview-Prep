@@ -21,13 +21,13 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 3  
+:white_circle: Easy: 4  
 :large_blue_circle: Medium: 9  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 :star: Good to review
 
-__Total:__ 12
+__Total:__ 13
 
 Thanks for reading, enjoy!
 
@@ -151,6 +151,18 @@ __Categories__: Strings
 __Categories__: Dynamic Programming
 
 12. :large_blue_circle: [Minimum Number of Coins for Change](Medium/min_num_coins.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 10 (3/3/2021):
+
+**AlgoExpert**.
+
+__Categories__: Strings
+
+13. :white_circle: [Generate Document](Easy/generate_document.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

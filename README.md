@@ -21,13 +21,13 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 4  
+:white_circle: Easy: 5  
 :large_blue_circle: Medium: 9  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 :star: Good to review
 
-__Total:__ 13
+__Total:__ 14
 
 Thanks for reading, enjoy!
 
@@ -163,6 +163,18 @@ __Categories__: Dynamic Programming
 __Categories__: Strings
 
 13. :white_circle: [Generate Document](Easy/generate_document.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 11 (3/4/2021):
+
+**AlgoExpert**.
+
+__Categories__: Arrays
+
+14. :white_circle: [Sort Squared Array](Easy/sortedSquaredArray.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

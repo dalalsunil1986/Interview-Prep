@@ -22,9 +22,13 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 **The Difficulty Levels:**
 
 :white_circle: Easy: 6
+
 :large_blue_circle: Medium: 9  
+
 :red_circle: Hard: 0  
+
 :black_circle: Very Hard: 0  
+
 :star: Good to review
 
 __Total:__ 15

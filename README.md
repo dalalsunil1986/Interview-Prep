@@ -21,7 +21,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 7
+:white_circle: Easy: 8
 
 :large_blue_circle: Medium: 9
 
@@ -31,7 +31,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 16
+__Total:__ 17
 
 Thanks for reading, enjoy!
 
@@ -205,6 +205,19 @@ __Categories__: Graphs
 16. :white_circle: [Depth First Search](Easy/depthfirstsearch.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 14 (3/7/2021):
+
+**AlgoExpert**.
+
+__Categories__: Arrays
+
+17. :white_circle: [Monotonic Array](Easy/monotonicarray.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
 
 
 

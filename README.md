@@ -23,15 +23,15 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :white_circle: Easy: 9
 
-:large_blue_circle: Medium: 9
+:large_blue_circle: Medium: 10
 
-:red_circle: Hard: 0  
+:red_circle: Hard: 0
 
 :black_circle: Very Hard: 0
 
 :star: Good to review
 
-__Total:__ 18
+__Total:__ 19
 
 Thanks for reading, enjoy!
 
@@ -230,5 +230,16 @@ __Categories__: Arrays
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 16 (3/9/2021):
+
+**AlgoExpert**.
+
+__Categories__: Arrays
+
+12. :large_blue_circle: [Array of Products](Medium/array_products.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 
 

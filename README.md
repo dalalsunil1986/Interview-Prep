@@ -238,7 +238,7 @@ __Categories__: Arrays
 
 __Categories__: Arrays
 
-12. :large_blue_circle: [Array of Products](Medium/array_products.py)
+18. :large_blue_circle: [Array of Products](Medium/array_products.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

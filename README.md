@@ -23,7 +23,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :white_circle: Easy: 9
 
-:large_blue_circle: Medium: 10
+:large_blue_circle: Medium: 11
 
 :red_circle: Hard: 0
 
@@ -31,7 +31,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 19
+__Total:__ 20
 
 Thanks for reading, enjoy!
 
@@ -226,7 +226,7 @@ __Categories__: Arrays
 
 __Categories__: Arrays
 
-17. :white_circle: [Two Number Sum](Easy/two_number_sum.py)
+18. :white_circle: [Two Number Sum](Easy/two_number_sum.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
@@ -238,7 +238,19 @@ __Categories__: Arrays
 
 __Categories__: Arrays
 
-18. :large_blue_circle: [Array of Products](Medium/array_products.py)
+19. :large_blue_circle: [Array of Products](Medium/array_products.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 17 (3/10/2021):
+
+**AlgoExpert**.
+
+__Categories__: Binary Search Trees
+
+20. :large_blue_circle: [Invert Binary Tree](Medium/invert_binarytree.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

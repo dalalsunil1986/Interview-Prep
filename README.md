@@ -21,7 +21,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 9
+:white_circle: Easy: 10
 
 :large_blue_circle: Medium: 11
 
@@ -31,7 +31,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 20
+__Total:__ 21
 
 Thanks for reading, enjoy!
 
@@ -254,4 +254,16 @@ __Categories__: Binary Search Trees
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 18 (3/11/2021):
+
+**AlgoExpert**.
+
+__Categories__: Greedy Algorithms
+
+21. :large_blue_circle: [Task Assignment](Easy/task_assignment.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 

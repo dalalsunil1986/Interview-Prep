@@ -21,7 +21,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 10
+:white_circle: Easy: 11
 
 :large_blue_circle: Medium: 11
 
@@ -31,7 +31,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 21
+__Total:__ 22
 
 Thanks for reading, enjoy!
 
@@ -264,6 +264,10 @@ __Categories__: Binary Search Trees
 __Categories__: Greedy Algorithms
 
 21. :large_blue_circle: [Task Assignment](Easy/task_assignment.py)
+
+**LeetCode** (SQL).
+
+22. :white_circle: [Students with Invalid Departments (SQL)](Easy/students_with_invalid_departments.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

@@ -18,10 +18,11 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 - Stacks
 - Sorting/Searching
 - Recursion
+- SQL
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 11
+:white_circle: Easy: 12
 
 :large_blue_circle: Medium: 11
 
@@ -31,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 22
+__Total:__ 23
 
 Thanks for reading, enjoy!
 
@@ -267,7 +268,19 @@ __Categories__: Greedy Algorithms
 
 **LeetCode** (SQL).
 
+https://leetcode.com/problems/students-with-invalid-departments/
+
 22. :white_circle: [Students with Invalid Departments (SQL)](Easy/students_with_invalid_departments.sql)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 19 (3/12/2021):
+
+**LeetCode** (SQL).
+
+https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
+
+23. :white_circle: [Replace Employee ID With The Unique Identifier (SQL)](Easy/replace_emp_ID_unique.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 

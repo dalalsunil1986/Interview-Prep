@@ -22,7 +22,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 12
+:white_circle: Easy: 13
 
 :large_blue_circle: Medium: 11
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 23
+__Total:__ 24
 
 Thanks for reading, enjoy!
 
@@ -284,3 +284,14 @@ https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 20 (3/13/2021):
+
+**LeetCode** (SQL).
+
+https://leetcode.com/problems/bank-account-summary-ii/
+
+24. :white_circle: [Bank Account Summary II (SQL)](Easy/bank_acc_summary2.sql)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->

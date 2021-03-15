@@ -24,7 +24,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :white_circle: Easy: 14
 
-:large_blue_circle: Medium: 11
+:large_blue_circle: Medium: 12
 
 :red_circle: Hard: 0
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 25
+__Total:__ 26
 
 Thanks for reading, enjoy!
 
@@ -305,5 +305,11 @@ https://leetcode.com/problems/bank-account-summary-ii/
 https://leetcode.com/problems/warehouse-manager/
 
 25. :white_circle: [Warehouse Manager (SQL)](Easy/warehouse_manager.sql)
+
+**AlgoExpert**.
+
+__Categories__: Graphs
+
+26. :large_blue_circle: [Single Cycle](Medium/single_cycle.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

@@ -22,7 +22,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 14
+:white_circle: Easy: 15
 
 :large_blue_circle: Medium: 12
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 26
+__Total:__ 27
 
 Thanks for reading, enjoy!
 
@@ -311,5 +311,18 @@ https://leetcode.com/problems/warehouse-manager/
 __Categories__: Graphs
 
 26. :large_blue_circle: [Single Cycle](Medium/single_cycle.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 22 (3/15/2021):
+
+**LeetCode** (SQL).
+
+https://leetcode.com/problems/find-the-team-size/submissions/
+
+27. :white_circle: [Find Team Size](Easy/find_team_size.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

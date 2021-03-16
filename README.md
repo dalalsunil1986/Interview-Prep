@@ -24,7 +24,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :white_circle: Easy: 15
 
-:large_blue_circle: Medium: 12
+:large_blue_circle: Medium: 13
 
 :red_circle: Hard: 0
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 27
+__Total:__ 28
 
 Thanks for reading, enjoy!
 
@@ -324,5 +324,17 @@ __Categories__: Graphs
 https://leetcode.com/problems/find-the-team-size/submissions/
 
 27. :white_circle: [Find Team Size](Easy/find_team_size.sql)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 23 (3/16/2021):
+
+**AlgoExpert**.
+
+__Categories__: Graphs
+
+28. :large_blue_circle: [Breadth First Search](Medium/breadthfirstsearch.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

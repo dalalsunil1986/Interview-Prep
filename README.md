@@ -24,7 +24,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :white_circle: Easy: 15
 
-:large_blue_circle: Medium: 13
+:large_blue_circle: Medium: 14
 
 :red_circle: Hard: 0
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 28
+__Total:__ 29
 
 Thanks for reading, enjoy!
 
@@ -270,7 +270,7 @@ __Categories__: Greedy Algorithms
 
 https://leetcode.com/problems/students-with-invalid-departments/
 
-22. :white_circle: [Students with Invalid Departments (SQL)](Easy/students_with_invalid_departments.sql)
+22. :white_circle: [Students with Invalid Departments (SQL)](Easy/SQL/students_with_invalid_departments.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
@@ -280,7 +280,7 @@ https://leetcode.com/problems/students-with-invalid-departments/
 
 https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
 
-23. :white_circle: [Replace Employee ID With The Unique Identifier (SQL)](Easy/replace_emp_ID_unique.sql)
+23. :white_circle: [Replace Employee ID With The Unique Identifier (SQL)](Easy/SQL/replace_emp_ID_unique.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
@@ -292,7 +292,7 @@ https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
 
 https://leetcode.com/problems/bank-account-summary-ii/
 
-24. :white_circle: [Bank Account Summary II (SQL)](Easy/bank_acc_summary2.sql)
+24. :white_circle: [Bank Account Summary II (SQL)](Easy/SQL/bank_acc_summary2.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
@@ -304,7 +304,7 @@ https://leetcode.com/problems/bank-account-summary-ii/
 
 https://leetcode.com/problems/warehouse-manager/
 
-25. :white_circle: [Warehouse Manager (SQL)](Easy/warehouse_manager.sql)
+25. :white_circle: [Warehouse Manager (SQL)](Easy/SQL/warehouse_manager.sql)
 
 **AlgoExpert**.
 
@@ -323,7 +323,7 @@ __Categories__: Graphs
 
 https://leetcode.com/problems/find-the-team-size/submissions/
 
-27. :white_circle: [Find Team Size](Easy/find_team_size.sql)
+27. :white_circle: [Find Team Size](Easy/SQL/find_team_size.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
@@ -336,5 +336,17 @@ https://leetcode.com/problems/find-the-team-size/submissions/
 __Categories__: Graphs
 
 28. :large_blue_circle: [Breadth First Search](Medium/breadthfirstsearch.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 24 (3/17/2021):
+
+**AlgoExpert**.
+
+__Categories__: Strings
+
+29. :large_blue_circle: [Reverse Words in String](Medium/reverse_words_in_string.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

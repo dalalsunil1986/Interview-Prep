@@ -22,7 +22,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 16
+:white_circle: Easy: 17
 
 :large_blue_circle: Medium: 14
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 30
+__Total:__ 31
 
 Thanks for reading, enjoy!
 
@@ -362,5 +362,17 @@ __Categories__: Strings
 https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/
 
 29. :white_circle: [Customer Who Visited but Made No Transactions](Easy/SQL/Customer_who_visited_no_trans.sql)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 26 (3/19/2021):
+
+**LeetCode** (SQL).
+
+https://leetcode.com/problems/top-travellers/
+
+29. :white_circle: [Top Travellers](Easy/SQL/top_travellers.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

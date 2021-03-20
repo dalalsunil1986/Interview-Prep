@@ -361,7 +361,7 @@ __Categories__: Strings
 
 https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/
 
-29. :white_circle: [Customer Who Visited but Made No Transactions](Easy/SQL/Customer_who_visited_no_trans.sql)
+30. :white_circle: [Customer Who Visited but Made No Transactions](Easy/SQL/Customer_who_visited_no_trans.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
@@ -373,6 +373,6 @@ https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transact
 
 https://leetcode.com/problems/top-travellers/
 
-30. :white_circle: [Top Travellers](Easy/SQL/top_travellers.sql)
+31. :white_circle: [Top Travellers](Easy/SQL/top_travellers.sql)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

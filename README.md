@@ -381,7 +381,7 @@ https://leetcode.com/problems/top-travellers/
 
 ## Day 27 (3/20/2021):
 
-***AlgoExpert**.
+**AlgoExpert**.
 
 __Categories__: Binary Trees
 

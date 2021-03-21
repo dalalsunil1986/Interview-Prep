@@ -385,6 +385,6 @@ https://leetcode.com/problems/top-travellers/
 
 __Categories__: Binary Trees
 
-32. large_blue_circle: [Find Successor](Medium/find_successor.py)
+32. :large_blue_circle: [Find Successor](Medium/find_successor.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

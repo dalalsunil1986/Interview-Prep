@@ -24,7 +24,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :white_circle: Easy: 17
 
-:large_blue_circle: Medium: 15
+:large_blue_circle: Medium: 16
 
 :red_circle: Hard: 0
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 32
+__Total:__ 33
 
 Thanks for reading, enjoy!
 
@@ -386,5 +386,17 @@ https://leetcode.com/problems/top-travellers/
 __Categories__: Binary Trees
 
 32. :large_blue_circle: [Find Successor](Medium/find_successor.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 28 (3/22/2021):
+
+**AlgoExpert**.
+
+__Categories__: Binary Trees
+
+33. :large_blue_circle: [Is Balanced](Medium/is_balanced.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

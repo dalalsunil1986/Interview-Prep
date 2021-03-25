@@ -22,7 +22,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 17
+:white_circle: Easy: 18
 
 :large_blue_circle: Medium: 17
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 34
+__Total:__ 35
 
 Thanks for reading, enjoy!
 
@@ -410,5 +410,17 @@ __Categories__: Binary Trees
 __Categories__: Linked Lists
 
 33. :large_blue_circle: [Sum of LinkedLists](Medium/sum_linked_lists.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 30 (3/25/2021):
+
+**AlgoExpert**.
+
+__Categories__: Arrays
+
+34. :white_circle: [Tournament Winner](Easy/tournament_winner.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

@@ -24,7 +24,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :white_circle: Easy: 17
 
-:large_blue_circle: Medium: 16
+:large_blue_circle: Medium: 17
 
 :red_circle: Hard: 0
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 33
+__Total:__ 34
 
 Thanks for reading, enjoy!
 
@@ -398,5 +398,17 @@ __Categories__: Binary Trees
 __Categories__: Binary Trees
 
 33. :large_blue_circle: [Is Balanced](Medium/is_balanced.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 29 (3/24/2021):
+
+**AlgoExpert**.
+
+__Categories__: Linked Lists
+
+33. :large_blue_circle: [Sum of LinkedLists](Medium/sum_linked_lists.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

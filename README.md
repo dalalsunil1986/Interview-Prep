@@ -22,7 +22,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 **The Difficulty Levels:**
 
-:white_circle: Easy: 18
+:white_circle: Easy: 19
 
 :large_blue_circle: Medium: 17
 
@@ -409,7 +409,7 @@ __Categories__: Binary Trees
 
 __Categories__: Linked Lists
 
-33. :large_blue_circle: [Sum of LinkedLists](Medium/sum_linked_lists.py)
+34. :large_blue_circle: [Sum of LinkedLists](Medium/sum_linked_lists.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
@@ -421,6 +421,18 @@ __Categories__: Linked Lists
 
 __Categories__: Arrays
 
-34. :white_circle: [Tournament Winner](Easy/tournament_winner.py)
+35. :white_circle: [Tournament Winner](Easy/tournament_winner.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 31 (3/28/2021):
+
+**AlgoExpert**.
+
+__Categories__: Sorting
+
+36. :white_circle: [Bubble Sort](Easy/bubble_sort.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->

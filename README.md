@@ -24,7 +24,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :white_circle: Easy: 19
 
-:large_blue_circle: Medium: 17
+:large_blue_circle: Medium: 18
 
 :red_circle: Hard: 0
 
@@ -32,7 +32,7 @@ I plan to do one problem daily, and upload my code here. The problems are groupe
 
 :star: Good to review
 
-__Total:__ 35
+__Total:__ 37
 
 Thanks for reading, enjoy!
 
@@ -434,5 +434,17 @@ __Categories__: Arrays
 __Categories__: Sorting
 
 36. :white_circle: [Bubble Sort](Easy/bubble_sort.py)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 32 (3/29/2021):
+
+**AlgoExpert**.
+
+__Categories__: Sorting
+
+37. :large_blue_circle: [Three Number Sort](Medium/three_number_sort.py)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
